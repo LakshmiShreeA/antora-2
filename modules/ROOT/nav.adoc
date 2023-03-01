@@ -1,2 +1,2 @@
 * xref:inline-text-formatting.adoc[]
-* xref:pages-1:f1.adoc[]
+* xref:pages-1/f1.adoc[]
