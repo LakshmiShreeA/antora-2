@@ -8,4 +8,6 @@ asciidoc:
     table-caption: false
 nav:
 - modules/ROOT/nav.adoc
+extensions:
+  - extension1.js
 
